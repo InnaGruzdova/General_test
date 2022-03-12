@@ -1,0 +1,16 @@
+git clone
+git status
+dir
+git add
+git commit -m "     "
+git push
+git log
+git rm
+git status -s
+git branch
+git branch --list
+git branch --list -v
+git checkout 
+git merge
+git pull
+
